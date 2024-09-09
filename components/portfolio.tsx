@@ -387,7 +387,7 @@ export default function Portfolio() {
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="relative w-48 h-48 mb-4">
                 <Image
-                  src="https://drive.google.com/uc?export=view&id=1MVBFznpVFqTTz1PiJA17NIvkgR0L9VHj"
+                  src="https://res.cloudinary.com/dxluppmld/image/upload/v1725923119/ob37vghci27jnh4ehz2j.jpg"
                   alt="Shubham Vishwakarma"
                   objectFit="cover"
                   className="rounded-full"
