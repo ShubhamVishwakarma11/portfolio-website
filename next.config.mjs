@@ -6,5 +6,10 @@ export const images = {
       hostname: "drive.google.com",
       port: "",
     },
+    {
+      protocol: "https",
+      hostname: "res.cloudinary.com",
+      port: "",
+    },
   ],
 };
